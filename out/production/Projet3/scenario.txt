@@ -1,0 +1,4 @@
+allumer lampe_salon
+éteindre lampe_salon après 1 minutes
+allumer chauffage
+éteindre chauffage après 2 minutes
